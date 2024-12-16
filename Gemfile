@@ -5,7 +5,7 @@ gem "semantic-ui-sass"
 gem "sassc-rails"
 gem "sprockets-rails"
 
-gem "rails", "~> 8.0.0", ">= 8.0.0.1"
+gem "rails", "~> 8.0.1"
 gem "sqlite3", ">= 2.1"
 gem "puma", ">= 5.0"
 gem "importmap-rails"
